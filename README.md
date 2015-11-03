@@ -1,1 +1,1 @@
-![Alt Text](https://raw.githubusercontent.com/afrans/master/figuras/teste.png)
+![Alt Text](https://github.com/afrans/master/figuras/teste.png)
